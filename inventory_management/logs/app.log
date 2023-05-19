@@ -1,0 +1,105 @@
+2023-05-19 14:57:04,327 - INFO - mongo_utility.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 14:57:51,837 - ERROR - inventory_handler.py:107 - find_total - {'error': "'Item_handler' object has no attribute 'get_total'"}
+2023-05-19 14:57:55,547 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 14:57:55,566 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 16:17:07,171 - INFO - mongo_utility.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 16:17:10,080 - INFO - mongo_utility.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 16:17:42,038 - ERROR - mongo_utility.py:83 - find_total - {'error': "'DatabaseConstants' object has no attribute 'aggregate'"}
+2023-05-19 16:17:44,612 - ERROR - email_handler.py:38 - send_email - {'message': "{'surukatiasutoshdora': (553, b'5.1.3 The recipient address <surukatiasutoshdora> is not a valid RFC-5321\\n5.1.3 address. Learn more at\\n5.1.3  https://support.google.com/mail/answer/6596 x13-20020a056a00270d00b0064d2bb329cdsm1453556pfv.42 - gsmtp')}"}
+2023-05-19 16:17:44,639 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 16:23:37,435 - ERROR - mongo_utility.py:83 - find_total - {'error': "name 'app_constant_object' is not defined"}
+2023-05-19 16:23:41,033 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 16:23:41,035 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 16:25:08,616 - INFO - mongo_utility.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 16:25:08,617 - ERROR - mongo_utility.py:83 - find_total - {'error': "'total'"}
+2023-05-19 16:25:11,860 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 16:25:11,862 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 16:28:54,163 - INFO - mongo_utility.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 16:28:54,164 - ERROR - mongo_utility.py:83 - find_total - {'error': "'total'"}
+2023-05-19 16:28:57,375 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 16:28:57,378 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 16:30:42,394 - INFO - mongo_utility.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 16:30:42,395 - ERROR - mongo_utility.py:83 - find_total - {'error': "'total'"}
+2023-05-19 16:30:45,666 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 16:30:45,667 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 16:30:57,751 - INFO - mongo_utility.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 16:30:57,752 - ERROR - mongo_utility.py:83 - find_total - {'error': "'total'"}
+2023-05-19 16:31:00,929 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 16:31:00,931 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 16:40:47,024 - INFO - mongo_utility.py:80 - find_total - {'Message:': 'Successfully found the total'}
+2023-05-19 16:40:47,025 - ERROR - mongo_utility.py:83 - find_total - {'error': "'total'"}
+2023-05-19 16:40:51,272 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 16:40:51,274 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 16:42:05,085 - INFO - mongo_utility.py:80 - find_total - {'Message:': 'Successfully found the total'}
+2023-05-19 16:42:08,182 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 16:42:08,183 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 16:44:16,501 - INFO - mongo_utility.py:80 - find_total - {'Message:': 'Successfully found the total'}
+2023-05-19 16:44:16,504 - ERROR - inventory_services.py:81 - sending_item - {'Error': "'total'"}
+2023-05-19 16:44:20,237 - INFO - mongo_utility.py:80 - find_total - {'Message:': 'Successfully found the total'}
+2023-05-19 16:44:20,243 - ERROR - inventory_services.py:81 - sending_item - {'Error': "'total'"}
+2023-05-19 16:44:52,428 - INFO - mongo_utility.py:80 - find_total - {'Message:': 'Successfully found the total'}
+2023-05-19 16:44:52,429 - ERROR - inventory_services.py:81 - sending_item - {'Error': "'body'"}
+2023-05-19 16:45:42,941 - INFO - mongo_utility.py:80 - find_total - {'Message:': 'Successfully found the total'}
+2023-05-19 16:45:42,943 - ERROR - mongo_utility.py:83 - find_total - {'error': "'total'"}
+2023-05-19 16:45:46,290 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 16:45:46,291 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 16:52:38,543 - INFO - mongo_utility.py:80 - find_total - {'Message:': 'Successfully found the total'}
+2023-05-19 16:52:38,544 - ERROR - mongo_utility.py:83 - find_total - {'error': "'total'"}
+2023-05-19 16:52:42,125 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 16:52:42,128 - INFO - inventory_services.py:79 - sending_item - {'Email sent successfully'}
+2023-05-19 16:54:11,562 - INFO - mongo_utility.py:81 - find_total - {'Message:': 'Successfully found the total'}
+2023-05-19 16:54:11,566 - ERROR - mongo_utility.py:84 - find_total - {'error': "'total'"}
+2023-05-19 16:54:15,101 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 16:54:15,102 - INFO - inventory_services.py:79 - sending_item - {'Email sent successfully'}
+2023-05-19 17:01:52,507 - INFO - mongo_utility.py:80 - find_total - {'Message:': 'Successfully found the total'}
+2023-05-19 17:01:52,508 - ERROR - mongo_utility.py:83 - find_total - {'error': "'total'"}
+2023-05-19 17:01:56,001 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 17:01:56,002 - INFO - inventory_services.py:79 - sending_item - {'Email sent successfully'}
+2023-05-19 17:03:56,971 - INFO - mongo_utility.py:80 - find_total - {'Message:': 'Successfully found the total'}
+2023-05-19 17:03:56,972 - ERROR - mongo_utility.py:83 - find_total - {'error': "'total'"}
+2023-05-19 17:04:00,330 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 17:04:00,332 - INFO - inventory_services.py:79 - sending_item - {'Email sent successfully'}
+2023-05-19 18:03:33,872 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:04:26,423 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:08:40,270 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:09:05,600 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:09:47,612 - ERROR - mongo_utility.py:85 - find_total - {'error': "'DatabaseConstants' object has no attribute 'aggregate'"}
+2023-05-19 18:09:51,307 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 18:09:51,309 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 18:10:50,749 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:11:20,665 - INFO - mongo_utility.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 18:11:20,666 - ERROR - mongo_utility.py:85 - find_total - {'error': "'total'"}
+2023-05-19 18:11:23,782 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 18:11:23,786 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 18:12:01,086 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:12:16,475 - ERROR - mongo_utility.py:85 - find_total - {'error': "'DatabaseConstants' object has no attribute 'aggregate'"}
+2023-05-19 18:12:20,094 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 18:12:20,096 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 18:15:02,381 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:15:02,699 - INFO - mongo_utility.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 18:15:02,700 - ERROR - mongo_utility.py:85 - find_total - {'error': "'total'"}
+2023-05-19 18:15:06,058 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 18:15:06,059 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 18:15:33,351 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:15:36,671 - INFO - mongo_utility.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 18:15:36,673 - ERROR - mongo_utility.py:85 - find_total - {'error': "'total'"}
+2023-05-19 18:15:40,191 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 18:15:40,192 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 18:16:32,670 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:16:32,738 - INFO - mongo_utility.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 18:16:35,975 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 18:16:35,977 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 18:22:09,421 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:23:06,055 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:23:06,148 - INFO - mongo_utility.py:82 - find_total - {'Message:': 'Successfully found the total'}
+2023-05-19 18:23:09,791 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 18:23:09,793 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 18:23:39,334 - INFO - mongo_utility.py:82 - find_total - {'Message:': 'Successfully found the total'}
+2023-05-19 18:23:42,866 - INFO - email_handler.py:36 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 18:23:42,868 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-19 18:25:41,924 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:25:43,105 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:30:19,922 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:31:28,606 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:37:55,762 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:38:06,037 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
